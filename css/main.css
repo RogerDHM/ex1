@@ -19,21 +19,16 @@ form .campo:hover{
     background-color: #80accf;
     color: #e9e9ea;
 }
-.camp1{
-    height: 30px;
+.campo{
+    border-radius: 5px;
 }
-.camp2{
-    height: 30px;
-}
-input{
-    border-radius: 10%;
-    
-}
+
 fieldset{
     padding: 40px 20px;
 }
 .sesion{
     background-color: #1977f1;
+    color: #fafcff;
     
 }
 fieldset{
@@ -41,4 +36,10 @@ fieldset{
 }
 .olvido{
     text-decoration: none;
+    color: #3c85dd;
+}
+.nueva{
+    background-color: #41b729;
+    color: #fafcff;
+
 }
